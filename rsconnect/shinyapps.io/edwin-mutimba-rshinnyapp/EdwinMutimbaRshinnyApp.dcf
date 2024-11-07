@@ -1,0 +1,12 @@
+name: EdwinMutimbaRshinnyApp
+title: EdwinMutimbaRshinnyApp
+username: edwin-mutimba-rshinnyapp
+account: edwin-mutimba-rshinnyapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13260584
+bundleId: 9327401
+url: https://edwin-mutimba-rshinnyapp.shinyapps.io/EdwinMutimbaRshinnyApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
